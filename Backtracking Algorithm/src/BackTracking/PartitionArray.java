@@ -5,7 +5,6 @@ public class PartitionArray {
 
 	public static void main(String[] args) 
 	{
-		
 		int arr[] = {2, 1, 2, 3, 4, 8};
 		int sum = 0;
 		
@@ -41,6 +40,7 @@ public class PartitionArray {
 		
 		if(leftPossible) return true;
 		
+		// This line makes BackTracking possible
 		ans.remove(ans.size()-1); 
 		
 		return partition(a, i+1, ans, sum);
