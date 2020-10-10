@@ -7,4 +7,4 @@ Now I have also added my code for implementation of Iterator Design Patten from 
 Iterator pattern will work for String, Integer, Float, Double and other datatypes as well. 
 Soon I will be adding the implementation of the Iterator Design Pattern for other Data Structures like Trees, Sets etc.
 
-Any suggestions and changes are welcome foe the improvement of the code!!
+Any suggestions and changes are welcome for the improvement of the code!!
