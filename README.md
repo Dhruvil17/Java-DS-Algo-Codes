@@ -7,4 +7,6 @@ Now I have also added my code for implementation of Iterator Design Patten from 
 Iterator pattern will work for String, Integer, Float, Double and other datatypes as well. 
 Soon I will be adding the implementation of the Iterator Design Pattern for other Data Structures like Trees, Sets etc.
 
+Some basic concepts of MultiThreading are added with their implementation with the code. More codes will be added soon.
+
 Any suggestions and changes are welcome for the improvement of the code!!
