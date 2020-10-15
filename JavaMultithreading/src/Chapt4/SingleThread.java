@@ -4,19 +4,13 @@ public class SingleThread {
 
 	public static void main(String[] args) throws InterruptedException {
 		
+		// Second method to create Thread by Thread Class in Java which has implemented Runnable Interface
+		
 		createJavaThread1();
 		
 		createJavaThread2();
 		
 		createJavaThread3();
-		
-//		The main Thread is now free and can be executed simultaneously with our other Thread
-//		for(int i=0;i<5;i++)
-//		{
-//			System.out.println("Hey! I am free !!");
-//			Thread.sleep(200);
-//		}
-		
 	}
 	public static void createJavaThread1()
 	{	
